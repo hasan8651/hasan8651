@@ -34,7 +34,7 @@
 <p align="center"><img src="./images/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /></p>
 
 ### Frontend
-<p align="center"><img src="./images/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="./images/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="./images/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="./images/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="./images/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="./images/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="./images/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="./images/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="./images/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="./images/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="./images/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="./images/bootstrap.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
 ### Backend
 <p align="center"><img src="./images/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
