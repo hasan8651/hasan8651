@@ -53,7 +53,12 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="hasan865" target="_blank"><img align="center" src="./images/LinkedIn.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mahmudul Hasan's LinkedIn"/></a> <a href="hasan865" target="_blank"><img align="center" src="./images/Twitter.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Mahmudul Hasan's Twitter"/></a> <a href="mailto:hasan865@gmail.com" target="_blank"><img align="center" src="./images/Gmail.svg?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mahmudul Hasan's Email"/></a> <a href="https://hasan8651.github.io" target="_blank"><img align="center" src="./images/Website.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/8801718047653" target="_blank"><img align="center" src="./images/WhatsApp.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasan865" target="_blank"><img align="center" src="./images/LinkedIn.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mahmudul Hasan's LinkedIn"/></a>
+  <a href="https://x.com/HasanAy67180300" target="_blank"><img align="center" src="./images/Twitter.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Mahmudul Hasan's Twitter"/></a>
+  <a href="mailto:hasan865@gmail.com" target="_blank"><img align="center" src="./images/Gmail.svg?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mahmudul Hasan's Email"/></a>
+  <a href="https://hasan8651.github.io" target="_blank"><img align="center" src="./images/Website.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://wa.me/8801718047653" target="_blank"><img align="center" src="./images/WhatsApp.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
 
 <div align="center">
