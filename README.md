@@ -1,18 +1,18 @@
 ![Web-developer](./images/hero_img.png)
 
 <h1 align="center">Hey <img src="./images/Developer.gif" height="30px" width="30px"> I'm Mahmudul Hasan</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">a Frontend Developer passionate about building fast, accessible, and clean web apps.</h3>
 
 
 
 <img src="./images/js_gif.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm currently learning REACT JS
+- I am a Frontend Developer exploring React JS to deepen my skills. I build clean, responsive UIs with React & Tailwind, and I’m comfortable with backend and auth using Express.js, MongoDB, and Firebase.
 
 
 ## 🧠 My Focus Areas
-- Web Development
+- Web development (SPA/SSR), component-driven UI, performance, and great UX.
 
 
 ## 📊 GitHub Stats & Trophies
