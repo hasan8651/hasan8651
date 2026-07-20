@@ -1,0 +1,652 @@
+﻿#EXTM3U
+#EXTINF:-1 ,AZE:QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 ,AZE:BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 ,AZE:APA TV
+https://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 ,Italy: Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1 ,Italy: DMAX
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1 ,Italy: Elive TV Brescia
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 ,Italy: Esperia TV
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 ,Italy: Icaro TV
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 ,Italy: MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 ,Italy: Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 ,Italy: Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 ,Italy: Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Italy: Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 ,Italy: Radio Lombardia TV
+https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+#EXTINF:-1 ,Italy: Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 ,Italy: RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:-1 ,Italy: ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 ,Italy: Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
+#EXTINF:-1 ,Italy: RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 ,Italy: RTP
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 ,Italy: Telefoggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 ,Italy: TeleRama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 ,Italy: Teletricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 ,Italy: TV Qui (Modena)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 ,Italy: Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1 group-title="Local" ,23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 ,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="Business" ,Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="Business" ,Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="Local" ,NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="News" ,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 ,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="Shop" ,The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 ,Channel V6
+https://media.ksl.com/watchit/vod/41534/playlist.m3u8
+#EXTINF:-1 ,KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,WABI 5 - Bangor - Maine
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1 ,HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 ,HTV 2 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 ,Red Apple 21 - Fairfax County Public Schools - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 ,UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:-1 ,IIPC TV
+#EXTINF:-1 ,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
+#EXTINF:-1 ,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 ,Russian Travel Guide 1
+https://plbl.m9.lfstrm.tv/russian_travel_guide/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr2&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Диалоги о рыбалке HD
+https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8
+#EXTINF:-1 ,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 ,В мире животных HD
+https://plbl.m9.lfstrm.tv/animal_family_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Приключения HD
+https://plbl.m9.lfstrm.tv/teletravel_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Авто Плюс
+https://plbl.m9.lfstrm.tv/auto_plus/normal/1/index.m3u8
+#EXTINF:-1 ,Авто24
+https://plbl.m9.lfstrm.tv/auto_24/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-live1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Охотник и рыболов
+https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Домашние Животные
+https://plbl.m9.lfstrm.tv/domashnie_zhivotnie/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Русский экстрим
+https://plbl.m9.lfstrm.tv/russkij_ekstrim/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,ZooПарк
+https://plbl.m9.lfstrm.tv/zoopark/normal/1/index.m3u8
+#EXTINF:-1 ,Sony Turbo (Резерв1)
+https://plbl.m9.lfstrm.tv/sony_turbo/normal/1/index.m3u8
+#EXTINF:-1 ,ТВ-3
+https://plbl.m9.lfstrm.tv/tv3/normal/1/index.m3u8
+#EXTINF:-1 ,SONY Channel
+https://plbl.m9.lfstrm.tv/set/normal/1/index.m3u8
+#EXTINF:-1 ,Мир сериала
+https://plbl.m9.lfstrm.tv/mir_seriala/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Мир сериала
+https://plbl.m9.lfstrm.tv/mir_seriala/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Кино ТВ HD
+https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?origin=m9-dvr2
+#EXTINF:-1 ,ТНТ HD
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Пятница HD
+https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,ТНТ4
+https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8
+#EXTINF:-1 ,Россия 1
+https://plbl.m9.lfstrm.tv/rossia1/normal/1/index.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://plbl.m9.lfstrm.tv/ntv_hit/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,НТВ Сериал
+https://plbl.m9.lfstrm.tv/ntv_serial/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,СТС
+https://plbl.m9.lfstrm.tv/sts/normal/1/index.m3u8
+#EXTINF:-1 ,Пятый канал
+https://plbl.m9.lfstrm.tv/5_channel/normal/1/index.m3u8
+#EXTINF:-1 ,Телеканал 86
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 ,Телеканал Футбол HD
+https://plbl.m9.lfstrm.tv/futboll_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Ani
+https://plbl.m9.lfstrm.tv/ani/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Канал Disney
+https://plbl.m9.lfstrm.tv/disney/normal/1/index.m3u8
+#EXTINF:-1 ,МультиМузыка
+https://plbl.m9.lfstrm.tv/strana/normal/1/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4
+#EXTINF:-1 ,Мама ТВ
+https://plbl.m9.lfstrm.tv/mat_i_ditya/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:0 group-title="Кино" ,Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 group-title="Общие" ,ТНТ. 21
+https://plbl.m9.lfstrm.tv/tntmoskva/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 group-title="Спорт" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 group-title="Yemen tv" ,Almasira TV
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",17.Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",54.52 TV
+http://str24.l9574.com/503.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",76.Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="Indian",188.NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="News",ABP Ananda (720p)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPAsmita.in" group-title="News",ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPHindi.in" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP Hindi (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://i.imgur.com/GteRQ6A.png" group-title="News",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-logo="https://i.imgur.com/PWzvp0B.png" group-title="Lifestyle",Ayush TV (720p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-id="EETTV.in" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (720p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="KITEVicters.in" tvg-logo="https://i.imgur.com/RvZxSkx.png" group-title="Education",KITE Victers (Kerala) (720p) [Not 24/7]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NDTV24X7.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTVIndia.in",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+
+#EXTINF:-1 tvg-id="PulariTV.in" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (720p)
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+
+#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-logo="https://i.imgur.com/EmBpOWM.png" group-title="News",Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/LOepeP3.jpg",Safari TV (480p)
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="Religious",Shubhsandesh (576p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/KYqVK91.png" group-title="News",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/mmoYacu.jpg" group-title="News",INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/GxKLahw.png" group-title="English",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?@IPTVSolution
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Music",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah ARB" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah ARB
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Music",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Music",Новое
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Music",Шансон-TB
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/fnxMNd7.png" group-title="News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",CNA SD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="CGTN.uk(m3u4u)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104529_dark_360w_270h.png" group-title="News",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/6zZmZtJ.jpg" group-title="News",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-id="Bloomberg.us(m3u4u)" tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="News",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="97" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="185" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOC9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="229" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Entertainment",Maasranga TV
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="102" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNS9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMy9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNi9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="186" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOC9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="191" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",Star News
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMC9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMS9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="188" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Entertainment",Channel 9 HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOS9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="132" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMy9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="247" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="News",Independent TV
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvaW5kZXgubTN1OA#EXTINF:-1 tvg-id="100" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision
+
+#EXTINF:-1,H4fn
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNS9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Entertainment",NTV
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNi9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="248" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png" group-title="Infotainment",Program Promo
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMC9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="240" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png" group-title="News",BTV Shangshad
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOS9vdXRwdXQvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="doraemon.24.7.hindi" tvg-logo="https://raw.githubusercontent.com/ShahirTech/Shahir-TV-Playlist/refs/heads/main/Channel%20logos/Doraemon%20Channel.png" group-title="Kids",Doraemon 24/7 (Hindi)
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTkwMi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
+
+#EXTINF:-1 tvg-id="trt1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Entertainment",TRT1
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9hbmRyby4yMjY1MDMueHl6L2NoZWNrbGlzdC9hbmRyb3N0cmVhbWxpdmViczEubTN1OA
+
+#EXTINF:-1 tvg-id="somoy.tv.fifa" tvg-logo="https://ecdn.dhakatribune.net/contents/cache/images/800x450x1/uploads/media/2024/08/19/somoy-tv-jobs-20210609154523-434abddc411e7dee19542842ac3124b2.jpg" group-title="Bangla News",Somoy TV FIFA
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9saXZlLnRoZWJvc3N0di5jb206MzA0NDMvZHdsaXZlL1NvbW95LVRWL2NodW5rcy5tM3U4
+
+#EXTINF:-1 tvg-id="bein.sports.11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="Sports",beIN Sports 11
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly8xbnlhbGVyLnN0cmVhbWhvc3RpbmdjZG4udG9wL3N0cmVhbS8yMy9pbmRleC5tM3U4
+
+#EXTINF:-1 tvg-id="caze.tv.br" tvg-logo="https://pbs.twimg.com/media/G2cmnMGWcAQWgxb.jpg" group-title="Sports",CAZE TV BR
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9kZnI4MHF6NDM1Y3JjLmNsb3VkZnJvbnQubmV0L01OT1AvQW1hZ2kvQ2F6ZS9DYXplX1RWX0JSLzEwODBwLXZ0dC9pbmRleC5tM3U4
+
+#EXTINF:-1 tvg-id="dsports.fifa.live" tvg-logo="https://grupowerthein.com/wp-content/uploads/2026/05/26-dsports.png" group-title="Sports",DSports FIFA Live
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly8xbnlhbGVyLnN0cmVhbWhvc3RpbmdjZG4udG9wL3N0cmVhbS8xMDYvaW5kZXgubTN1OA
+
+#EXTINF:-1 tvg-id="red.bull.tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/red-bull-tv-int.png" group-title="Sports",Red Bull TV
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9hbmRyby4yMjY1MDMueHl6L2NoZWNrbGlzdC9hbmRyb3N0cmVhbWxpdmViczIubTN1OA
+
+#EXTINF:-1 tvg-id="thunder.sports.hd" tvg-logo="https://www.vpncheck.org/wp-content/uploads/2021/10/Thunder-TV-Loading-Screen.png" group-title="Sports",Thunder ER Sports HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90aHVuZGVyL2NodW5rcy5tM3U4
+
+#EXTINF:-1 tvg-id="win.sports.hd" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Sports",Win Sports HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly8xbnlhbGVyLnN0cmVhbWhvc3RpbmdjZG4udG9wL3N0cmVhbS8zMi9pbmRleC5tM3U4
+
+#EXTINF:-1 tvg-id="sony.max.hd" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-max-in.png" group-title="Movies",Sony Max HD
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9tZmxpeG90dC5jb20vdHYvdG9mZmVlLWJ5LW1hcnVmL2xpdmUucGhwP2lkPXNvbnlfbWF4X2hkJmU9Lm0zdTg
+
+#EXTINF:-1 tvg-id="fox.local.ny" tvg-logo="https://cornerstonevegas.com/wp-content/uploads/2024/04/fox-5-2-logo-png-transparent-768x768.png" group-title="News",FOX Local NY
+https://go.skym3u.top/h4fn.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDA0ODgtZm94ZGlnaXRhbC13bnl3LWxndXMvcGxheWxpc3QubTN1OA
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Weser TV Bremen" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2Beat TV" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2Beat TV
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Óčko Expres" tvg-logo="" group-title="Music",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Óčko STAR" tvg-logo="" group-title="Music",Óčko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Navarre Beach - Florida USA" tvg-logo="" group-title="Live CCTV",Navarre Beach - Florida USA
+https://vdn.terrafox.com/NBL/nbl-1.stream/chunks.m3u8
+#EXTINF:-1 ,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 ,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,Губерния
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 ,Plus
+http://hls.sweet.tv/stream/5h3gtpgxdrepc9ipv7fcu8534k98yk7gc2xzy8h9pinrg7nb2bkcyb57bc64m4wfrgjd66atg96hfu45ypg6i9vzpa9ra3fdakt22rifckvnxcw8fzv5g89k35iszd3t5yneumjsrg66qcn7taayfgxf.m3u8
+#EXTINF:-1 ,Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 ,Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:0 group-title="CHILDREN" ,AR ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IRAQ HD" tvg-name="AR:IRQ-AL Sharqiya TV" ,AR:IRQ-AL Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+#EXTINF:-1 group-title="IRAQ HD" tvg-name="AR:IRQ-Dejlah TV (Dijlah)" ,AR:IRQ-Dejlah TV (Dijlah)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="HOLLAND" ,NL:go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1 group-title="SYRIE HD" tvg-name="AR:SYR-SYRIA PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDuqFuuZ_gkxtwJS1F-dultw5T4VOWcTSkjwQ=s900-mo-c-c0xffffffff-rj-k-no" ,AR:SYR-SYRIA PLUS
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS HD" tvg-name="AR:AL Arabiya HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" ,AR:AL Arabiya HD
+https://av.alarabiya.net/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:-1 group-title="NEWS HD" tvg-name="AR:AL Hadath News HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" ,AR:AL Hadath News HD
+https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E1" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E1)
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E01.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E2" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E2)
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E02.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E3" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E3)
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E03.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E4" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E4)
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E04.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E5" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E5)
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E05.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E6" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="Drive 1 (Bangla Series)",Contract (S1E6)
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E06.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E1" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E1)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E01.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E2" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E2)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E02.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E3" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E3)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E03.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E4" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E4)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E04.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E5" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E5)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E05.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E6" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E6)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E06.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E7" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="Drive 1 (Bangla Series)",Kuhok (S1E7)
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E07.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100 PERCENT WOLF" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" group-title="Drive 2 (Animation)",100 PERCENT WOLF
+http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG FISH & BEGONIA" tvg-logo="http://10.16.100.244/files/big_fish___begonia__da_yu_hai_tang_.jpg" group-title="Drive 2 (Animation)",BIG FISH & BEGONIA
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Big%20Fish%20&%20Begonia%20(Da%20yu%20hai%20tang)%20(2016)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIGFOOT FAMILY" tvg-logo="http://10.16.100.244/files/bigfoot_family.jpg" group-title="Drive 2 (Animation)",BIGFOOT FAMILY
+http://10.16.100.248/ftps6d3/Movies/Animation/Bigfoot%20Family(2020)1080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOB THE BUILDER MEGA MACHINES" tvg-logo="http://10.16.100.244/files/bob_the_builder_mega_machines.jpg" group-title="Drive 2 (Animation)",BOB THE BUILDER MEGA MACHINES
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Bob%20The%20Builder%20Mega%20Machines%20The%20Movie%20(2017)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOBOIBOY MOVIE 2" tvg-logo="http://10.16.100.244/files/boboiboy_movie_2.jpg" group-title="Drive 2 (Animation)",BOBOIBOY MOVIE 2
+http://10.16.100.246/ftps4d3/Movies/Animated/BoBoiBoy%20Movie%202%20(2019)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMBAT WOMBAT" tvg-logo="http://10.16.100.244/files/combat_wombat__2020_.jpg" group-title="Drive 2 (Animation)",COMBAT WOMBAT
+http://10.16.100.248/ftps6d3/Movies/Animation/Combat%20Wombat%20(2020).mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON RIDER" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Drive 2 (Animation)",DRAGON RIDER
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Animated/Dragon%20Rider%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EARWIG AND THE WITCH" tvg-logo="http://10.16.100.244/files/earwig_and_the_witch.png" group-title="Drive 2 (Animation)",EARWIG AND THE WITCH
+http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Animated/Earwig%20and%20the%20Witch%20(2021)%201080p%20HDRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELF PETS: SANTA S REINDEER RESCUE" tvg-logo="http://10.16.100.244/files/elf_pets__santa_s_reindeer_rescue.jpg" group-title="Drive 2 (Animation)",ELF PETS: SANTA S REINDEER RESCUE
+http://10.16.100.248/ftps6d3/Movies/Animation/Elf%20Pets%20Santas%20Reindeer%20Rescue(2020)720p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGEND OF DEIFICATION" tvg-logo="http://10.16.100.244/files/legend_of_deification.jpg" group-title="Drive 2 (Animation)",LEGEND OF DEIFICATION
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Animated/Legend%20of%20Deification%20(Jiang%20Ziya)%20(2021)%20720p%20BluRay.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MINIONS HOLIDAY SPECIAL" tvg-logo="http://10.16.100.244/files/minions_holiday_special.jpg" group-title="Drive 2 (Animation)",MINIONS HOLIDAY SPECIAL
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Minions%20Holiday%20Special%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OVER THE MOON" tvg-logo="http://10.16.100.244/files/over_the_moon.jpg" group-title="Drive 2 (Animation)",OVER THE MOON
+http://10.16.100.248/ftps6d3/Movies/Animation/Over%20The%20Moon%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY BLUE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Drive 2 (Animation)",SKY BLUE
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/Animated/Sky%20Blue%20(2003)%201080p%20BRrip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPIDER MAN: INTO THE SPIDER VERSE (HINDI + ENGLISH)" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="Drive 2 (Animation)",SPIDER MAN: INTO THE SPIDER VERSE (HINDI + ENGLISH)
+http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Spider%20Man%20Into%20the%20Spider%20Verse%20(2018)%20720p%20BluRay.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE FAIRY PRINCESS & THE UNICORN (BAYALA A MAGICAL ADVENTURE)" tvg-logo="http://10.16.100.244/files/the_fairy_princess___the_unicorn__bayala_a_magical_adventure_.jpg" group-title="Drive 2 (Animation)",THE FAIRY PRINCESS & THE UNICORN (BAYALA A MAGICAL ADVENTURE)
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Animated/The%20Fairy%20Princess%20&%20the%20Unicorn%20(Bayala%20A%20Magical%20Adventure)%20(2019)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE PEBBLE AND THE PENGUIN" tvg-logo="http://10.16.100.244/files/the_pebble_and_the_penguin.jpg" group-title="Drive 2 (Animation)",THE PEBBLE AND THE PENGUIN
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/Animated/The%20Pebble%20and%20the%20Penguin%20(1995)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TWO BY TWO OVERBOARD (OOOPS THE ADVENTURE CONTINUES)" tvg-logo="http://10.16.100.244/files/two_by_two__overboard_.jpg" group-title="Drive 2 (Animation)",TWO BY TWO OVERBOARD (OOOPS THE ADVENTURE CONTINUES)
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Animated/Ireland/Two%20by%20Two%20Overboard%20(Ooops!%20The%20Adventure%20Continues)%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WE BARE BEARS THE MOVIE" tvg-logo="http://10.16.100.244/files/we_bare_bears_the_movie.jpg" group-title="Drive 2 (Animation)",WE BARE BEARS THE MOVIE
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Animated/We%20Bare%20Bears%20The%20Movie%20(2020)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE GIRL ON THE TRAIN" tvg-logo="http://10.16.100.244/files/the_girl_on_the_train.jpg" group-title="Drive 3 (Movie)",THE GIRL ON THE TRAIN
+http://10.16.100.206/ftps3/ftps3d3/Movies/Hindi/The%20Girl%20On%20The%20Train%20(2021)%20Hindi%201080P%20%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 2 DEAD END" tvg-logo="http://10.16.100.244/files/wrong_turn_2_dead_end.jpg" group-title="Drive 3 (Movie)",WRONG TURN 2 DEAD END
+http://10.16.100.241/ftps3d3/Movies/English/Wrong%20Turn%202%20Dead%20End%20(2007)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 3 LEFT FOR DEAD" tvg-logo="http://10.16.100.244/files/wrong_turn_3_left_for_dead.jpg" group-title="Drive 3 (Movie)",WRONG TURN 3 LEFT FOR DEAD
+http://10.16.100.246/ftps4d2/Movies/English/Wrong%20Turn%203%20Left%20For%20Dead%20(2009)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 4 BLOODY BEGINNINGS" tvg-logo="http://10.16.100.244/files/wrong_turn_4__bloody_beginnings.jpg" group-title="Drive 3 (Movie)",WRONG TURN 4 BLOODY BEGINNINGS
+http://10.16.100.241/ftps3d1/Movies/English/Wrong%20Turn%204%20Bloody%20Beginnings%20(2011)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 5 BLOODLINES" tvg-logo="http://10.16.100.244/files/wrong_turn_5_bloodlines.jpg" group-title="Drive 3 (Movie)",WRONG TURN 5 BLOODLINES
+http://10.16.100.246/ftps4d3/Movies/English/Wrong%20Turn%205%20Bloodlines%20(2012)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD FAMOUS LOVER" tvg-logo="http://10.16.100.244/files/world_famous_lover__hindi_dubbed_.jpg" group-title="Drive 3 (Movie)",WORLD FAMOUS LOVER
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/World%20Famous%20Lover%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGIC ARCH 3D" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Drive 3 (Movie)",MAGIC ARCH 3D
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Magic%20Arch%203D%20(2020)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100 PERCENT WOLF" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" group-title="Drive 3 (Movie)",100 PERCENT WOLF
+http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE GREAT INDIAN KITCHEN (ORU KUDAM)" tvg-logo="http://10.16.100.244/files/the_great_indian_kitchen__oru_kudam_.jpg" group-title="Drive 3 (Movie)",THE GREAT INDIAN KITCHEN (ORU KUDAM)
+http://10.16.100.248/ftps6d3/Movies/South%20Indian/The%20Great%20Indian%20Kitchen%20(Oru%20Kudam)%20(2021)%20Malayam%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAARA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Drive 3 (Movie)",MAARA
+http://10.16.100.206/ftps3/ftps3d5/Movies/South%20Indian/Maara%20(2021)%20720p%20HDRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Lion King (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Drive 3 (Movie)",The Lion King (2019)
+http://46.60.1.85/storaged/D/hm-7/Movies/Animation/X19/The.Lion.King.2019.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MASTER (AUDIO - TAMIL)" tvg-logo="http://10.16.100.244/files/master__audio___tamil_.jpg" group-title="Drive 3 (Movie)",MASTER (AUDIO - TAMIL)
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/South%20Indian/Tamil/Master%20(2021)%20Tamil%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arctic Dogs 2019" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Drive 3 (Movie)",Arctic Dogs 2019
+http://46.60.1.85/storaged/D/os-7/Movies/Animation/Arctic.Dogs.2019.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E1
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E01.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E2
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E02.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E3
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E03.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E4
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E04.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E5" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E5
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E05.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E6
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E06.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E7
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E07.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E8
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E08.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E9" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E9
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E09.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E10" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E10
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E10.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E11" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E11
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E11.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E12" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E12
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(01%20-%2012)/Single%20Dirilis%20Ertugrul%20S01E12.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E13" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E13
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E13.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E14" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E14
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E14.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E15" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E15
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E15.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E16" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E16
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E16.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E17" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E17
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E17.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E18" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E18
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E18.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E19" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E19
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E19.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E20" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E20
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E20.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E21" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E21
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E21.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E22" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E22
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E22.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E23" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E23
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E23.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E24" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E24
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(13%20-%2024)/Single%20Dirilis%20Ertugrul%20S01E24.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E24" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E25
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E25.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E26" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E26
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E26.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E27" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E27
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E27.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E28" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E28
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E28.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E29" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E29
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E29.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E30" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E30
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E30.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E31" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E31
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E31.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E32" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E32
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E32.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E33" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E33
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E33.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E34" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E34
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E34.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E35" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E35
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E35.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E36" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E36
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(25%20-%2036)/Dirilis%20Ertugrul%20S01E36.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E37" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E37
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E37.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E38" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E38
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E38.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E39" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E39
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E39.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E40" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E40
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E40.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E41" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E41
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E41.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E42" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E42
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E42.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E43" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E43
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E43.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E45" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E45
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E45.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E46" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E46
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E46.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E47" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E47
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E47.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E48" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E48
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(37%20-%2048)/Dirilis%20Ertugrul%20S01E48.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E49" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E49
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E49.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E50" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E50
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E50.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E51" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E51
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E51.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E52" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E52
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E52.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E53" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E53
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E53.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E54" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E54
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E54.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E55" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E55
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E55.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E56" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E56
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E56.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E57" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E57
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E57.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E58" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E58
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E58.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E59" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E59
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E59.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E60" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E60
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(49%20-%2060%20)/Dirilis%20Ertugrul%20S01E60.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E61" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E61
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E61.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E62" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E62
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E62.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E63" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E63
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E63.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E64" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E64
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E64.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E65" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E65
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E65.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E66" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E66
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E66.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E67" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E67
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E67.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E68" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E68
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E68.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E69" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E69
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E69.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E70" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E70
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E70.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E71" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E71
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E71.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E72" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E72
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(61%20-%2072%20%20)/Dirilis%20Ertugrul%20S01E72.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E73" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E73
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E73.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E74" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E74
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E74.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E75" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E75
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E75.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E76" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E76
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E76.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E77" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E77
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E77.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E78" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E78
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E78.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E79" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E79
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E79.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dirilis Ertugrul E80" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drive 4 (Series)",Dirilis Ertugrul E80
+http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Other%20Foreign/Turkish/Dirilis%20Ertugrul%20Season%2001%20(2014)%20Completed/Dirilis%20Ertugrul%20Episodes%20(73%20-%2084)/Dirilis%20Ertugrul%20S01E80.mkv
+
+
+
+
+
+
+
+
+
