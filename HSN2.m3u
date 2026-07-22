@@ -33,12 +33,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png" group-title="BANGLA",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1,PROBASHI
-http://158.69.24.53:8080/probashi_tv/index.m3u8
-
-#EXTINF:-1,PROBASHI
-http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,deshebideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
@@ -56,9 +50,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1,Global-tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
-
-#EXTINF:-1,news21
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1,nrb
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
@@ -78,9 +69,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,rajdhanicable
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
-#EXTINF:-1,liveevent
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
 #EXTINF:-1,ekhon_tv
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
@@ -96,8 +84,6 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 #EXTINF:-1,mohonatv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,moviebanglatv
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1,21.Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -150,9 +136,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1,11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1,ETV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
 #EXTINF:-1,14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
@@ -167,9 +150,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1,SA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-
-#EXTINF:-1,asiantvHD
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 #EXTINF:-1,24.Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
@@ -218,9 +198,6 @@ https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
 
 #EXTINF:-1,ME TV
 https://iptvbd.live/metv1080/1080.m3u8
-
-#EXTINF:-1,23. channel A1
-https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -272,6 +249,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1,10.Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1,PROBASHI
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+
+#EXTINF:-1,PROBASHI
+http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,moviebanglatv
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1,Rongbazar
 https://yellow-flower-41fc.cinepixserver00.workers.dev/1:/5-6-26/OTTBoxBD.Com-Rongbazar%20(2026)%20Bengali%20WEB-DL%20H264%20AAC%20720p.mkv
