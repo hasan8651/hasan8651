@@ -1,261 +1,736 @@
 #EXTM3U
-#PLAYLIST:Checked by CODECS.COM M3U Checker
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bangla 1
-https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",ATN Bangla
-https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Boishakhi
-https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekushe TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel i
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",N TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822_225533.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L83Ngf3C/banglavision.webp" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x95285" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ananda TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jamuna
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRnM89n/20240825-071012.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",EP TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Enter TV
-https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ys4hMyd/20240822-230446.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekattor HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822_230837.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTz0Qj3G/DESH-TV1.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Desh TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deepto
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tkB62gc/20240822-231147.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekhon
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Global TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6MvsdFm/20240822-231309.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel S
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxxzBhDM/20240822-230101.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Mohona Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bijoy Tv
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",My Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Green TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59DTqkcr/20240822-230408.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SRK
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Makkah Live
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Medina Live
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321_075216.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Islamic TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Iqra Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Quran TV
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="𝐊𝐢𝐝𝐬",Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="𝐊𝐢𝐝𝐬",Nikki HD
-https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="𝐊𝐢𝐝𝐬",Sony YaY
-https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png" group-title="𝐊𝐢𝐝𝐬",Discovery Kids
-https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png" group-title="𝐊𝐢𝐝𝐬",Pogo
-https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfgTVQw2/20240823-020726.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Akash Bangla
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="PROMO",Program Promo
-https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",& Tv
-https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",& Picture
-https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Tv
-https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Cinema HD
-https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Zee Bollywood
-https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",HUM TV
-https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Television
-https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Television HD
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max HD
-https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max 2
-https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Sab HD
-https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3TrX75k/Calcutta-news.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Calcutta News
-https://akdnetwork.co.in/live/cnnew/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnh1fq0X/RPlus-News-logo-2017.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0KSP0qB/Zee-24-Ghanta-2025-Logo-2025.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdtWWWq3/Republic-bangla.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Republic Bangla
-https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85L5cGqH/Tv9bangla.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTTqdP5/Aaj-Tak-HD-v2.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Aaj Tak HD
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26xDgSs9/NDTV.webp" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",NDTV Hindi
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
-https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",PTC Music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",Epic Music
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="𝐌𝐮𝐬𝐢𝐜",Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="𝐌𝐮𝐬𝐢𝐜",yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bhojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Ten Cricket
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNF8KVSb/o-T5CAvd.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",TUDN
-https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 1
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 2
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jVBfQNj.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Mundial
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-
+#EXTINF:0,& Picture
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e562c5d1100200c1119141c00311c3b0c0401004a1d3156554a183e580c75.m3u8
+#EXTINF:0,& Pictures
+https://go.skym3u.top/live/3b1f0d3d095a7025000117150b16035a363c0c09074b17305f1f7005662f32187d34701d52372c2037263d5b6665535440.m3u8
+#EXTINF:0,& Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c1431343a061b3e060131153d214a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,24 Hour Free Movies (720p)
+https://go.skym3u.top/live/3b1f0d3d404f707f01430f5403090f1e3d3e130818135a3c5e5f475235191623475b3135115d1b5041080f072b36174c4b0144690005060735591f2b004c3d6506420b55560759406c3053574354106d0756040435084b781c201b05483604121a170120097c5457474b196c4708.m3u8
+#EXTINF:0,7S MUSIC
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5640003e3d020c06135a365c1f76453f124c37003d680328273e282d4a071a3b361d4d1f560167.m3u8
+#EXTINF:0,7S Music
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567a0444703d040119041c4b03472a6b.m3u8
+#EXTINF:0,9X JALWA
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d585657565843.m3u8
+#EXTINF:0,9X Jalwa
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0544703d040119041c4b03472a6b.m3u8
+#EXTINF:0,9XM
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0640703d040119041c4b03472a6b.m3u8
+#EXTINF:0,9XM
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c064070615047325140085d0167.m3u8
+#EXTINF:0,Aaj Tak HD
+https://go.skym3u.top/live/3b1f0d3d404f707f041307150f0e021d293648021f015a3e59515f573a111c291d1b3a244a1a0112410907023a7c57534351406e041f5357391f18261c143e3a1113060d07130b5b333a13062d52466f421f515e2605123e1d186c255d.m3u8
+#EXTINF:0,Aastha
+https://go.skym3u.top/live/3b1f0d3d404f707f04131e15060401002b7d040813081536485556183d0e0d6202446f6957414212030c024e3e3216171a0400291c435f5f3f4410235710277e08411859.m3u8
+#EXTINF:0,Aastha
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e004d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Aastha Bhajan
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62064c6b7e08411859.m3u8
+#EXTINF:0,Aastha Bhajan
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e004c703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Aastha Bhajan
+https://go.skym3u.top/live/3b1f0d3d404f707f04131e15060401002b7d040813081536485556183d0e0d6202446f6957414212030c024e3d3b0409130b5a2c5f595e1930030c2358193623112d0f5358515e446f7d0850075d.m3u8
+#EXTINF:0,AASTHA BHAJAN
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b471e11362625202c2d2f3e1e1d4a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,All Time Movies
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678075a6a643a42430c5d1056.m3u8
+#EXTINF:0,Always Funny Videos
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30271d73010406635b497c6b38.m3u8
+#EXTINF:0,Always Funny Videos
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351d73030506635b497c7737.m3u8
+#EXTINF:0,America's Got Talent
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30276c07000206635d2f0b.m3u8
+#EXTINF:0,America's Got Talent
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f22361d71020106635b497f7432.m3u8
+#EXTINF:0,American Idol
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f22361d71020106635b497c6b40.m3u8
+#EXTINF:0,Ananda
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d7a363e382007336e390c0a340f1d561d47113c0b4c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Animal Planet HD
+https://go.skym3u.top/live/3b1f0d3d095a7062525c5c535a4b59457161524c330b1d32535c6d663f0a1728475a363e0117154f03561b4c.m3u8
+#EXTINF:0,Anjan TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f035a6d603a42430c5d1056.m3u8
+#EXTINF:0,Anmol Cinema
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0444703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Anmol Cinema 2
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0642703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Anmol TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0643703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Anmol TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f064370625044325140085d0167.m3u8
+#EXTINF:0,Apex Entertainment
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6200476c614b1f5e1456.m3u8
+#EXTINF:0,Argus News
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27090a04005a3c5d1e5b587c0a0b2a460670390b16081940085d0167.m3u8
+#EXTINF:0,Arre HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c620a436c7e08411859.m3u8
+#EXTINF:0,ATN Bangla
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d6660124b18611218672936084e070b0a11277d0850075d.m3u8
+#EXTINF:0,ATN News
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d52325d2e006b34347f0c1c0904164b03472a6b.m3u8
+#EXTINF:0,B4U Kadak
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679075a6b643a42430c5d1056.m3u8
+#EXTINF:0,B4U KADAK
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679075a32311606081340085d0167.m3u8
+#EXTINF:0,B4U Movie
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679005a6b633a42430c5d1056.m3u8
+#EXTINF:0,B4U MOVIES
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679005a32311606081340085d0167.m3u8
+#EXTINF:0,B4U MUSIC
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5140003e3d020c06135a365c1f5f076b0a082178411d64303f38322726411d3137001b5c08472a0a.m3u8
+#EXTINF:0,B4U Music
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0642703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Baiscope TV
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d5432020a2e5c053a7f071304120d0a1e11703a0b07171d5a3201450a.m3u8
+#EXTINF:0,Bangla Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d056a0e1c74001b0a322631000c5b291d0d1b67114c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Banglavision
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d42343e033d63166622530a1a4e070b0a11277d0850075d.m3u8
+#EXTINF:0,BH OTT India Fest
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6200456d684b1f5e1456.m3u8
+#EXTINF:0,Bhojopuri Cinema
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b074370665144325140085d0167.m3u8
+#EXTINF:0,BIG MAGIC
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c005a32311606081340085d0167.m3u8
+#EXTINF:0,Big Magic
+https://go.skym3u.top/live/3b1f0d3d095a7025000117150b16035a363c0c09074b17305f1f7005662f32187d34701d52372c2037263d5b6e60545a4a5c.m3u8
+#EXTINF:0,Big Magic
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c005a6e633a42430c5d1056.m3u8
+#EXTINF:0,Bijoy Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c17363a0a0b3215183a0f162d7c0c0d16000c715f03470e.m3u8
+#EXTINF:0,Boishakhi
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d0737580c0a0a231c37172054253c11392e1266524c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Boogle Bollywood
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c620a436d7e08411859.m3u8
+#EXTINF:56,BTV
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d5923393c2f6b392e1a573a2b383e2636201511044c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Channel i
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d701d2309144532056723192e245f553e030b1b084c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,CNBC TV18 Prime
+https://go.skym3u.top/live/3b1f0d3d404f707f0b435512170b0a1d3c32110a1d0b5a3e59515f573a111c291d1b3a244a101d0a4311185b1c1d27202d31026e0a6f62443a061c127b31001e3243553e232a2c5b302611130711446e1d595c5236135720000067.m3u8
+#EXTINF:0,Colors Bangla HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5440426e7d54515d263b137d626169112a37057f34702417130e0a1d4818453e624a0e1d0b1b715f03470e.m3u8
+#EXTINF:0,Colors HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456f324a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Colors HD
+https://go.skym3u.top/live/3b1f0d3d095a70655c5c5c515d4b5d4c716753594a55446f1d405e572a44187d031770390b16081940085d0167.m3u8
+#EXTINF:0,COLORS HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d59595a565a43.m3u8
+#EXTINF:0,Colors Infinity
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0a5a6d693a42430c5d1056.m3u8
+#EXTINF:0,COLORS RISHTEY
+https://go.skym3u.top/live/3b1f0d3d095a7025000117150b16035a363c0c09074b17305f1f7005662f32187d34701d52372c2037263d5b6c60505a45.m3u8
+#EXTINF:0,Conan O'Brien TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f22366c02000206623a36.m3u8
+#EXTINF:0,Conan O'Brien TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351d76010506635b497f6141.m3u8
+#EXTINF:0,Dangal
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c045a6e673a42430c5d1056.m3u8
+#EXTINF:0,DANGAL
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c045a32311606081340085d0167.m3u8
+#EXTINF:0,DANGAL
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0443010f1a3832094d130e15325359485337451728475a333913170c031c4a1e183e2a090a01115a3201450a.m3u8
+#EXTINF:0,Dangal 2
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0b5a6e683a42430c5d1056.m3u8
+#EXTINF:0,DANGAL 2
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0443010f1a383209515c041f3e5f515b4c360f57235601703c0c0408000c17410433321c0f1b1600715f03470e.m3u8
+#EXTINF:0,Dangal 2
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5c515a565f456a.m3u8
+#EXTINF:0,DBC News
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d46155d4f19580f6f2123053d530f282305172a114c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,DD Bharati
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e0040703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD BHARATI
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5440003e3d020c06135a365c1f7d03321c41175d461b14273a2c332f31275b363d01060a4b196c4708.m3u8
+#EXTINF:0,DD Chhattisgarh
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e56780442703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD INDIA
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b471b142c3c29282f4a071a3b361d4d1f560167.m3u8
+#EXTINF:0,DD India
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a1845703000071354406a0a030601645f4b7b52146e6657135b545d5c5c1067360453454a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD INDIA
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c024c703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD India HD
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c024c7061544b325140085d0167.m3u8
+#EXTINF:0,DD KASHIR
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a1845706b04564b044c6d0a550a06305f4029034c6a685c4058585b550d113c635753464a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD Kashir
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f074d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD Kisan
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c074d7061514a325140085d0167.m3u8
+#EXTINF:0,DD KISAN
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5140003e3d020c06135a365c1f5f076b0a082178411b142e3b3e20204a071a3b361d4d1f560167.m3u8
+#EXTINF:0,DD KISAN
+https://go.skym3u.top/live/3b1f0d3d404f707f0140010a5b105b4d2b3d165446065a3c5e5f475235191623475b3135115d02141a4a1845706703534756126d51010057615f4f790217396755430b0359035c4768655256424a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD Madhya Pradesh
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678044d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD NATIONAL
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c065a32311606081340085d0167.m3u8
+#EXTINF:0,DD National
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a1845706755574b57156906530352315f187c004d6a3204430c5257520a476a640150134a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD National HD
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c065a6e653a42430c5d1056.m3u8
+#EXTINF:0,DD NATIONAL HD
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5440003e3d020c06135a365c1f7d03321c41175d461b142b333928212b2f3817174a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,DD News
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a184570635d524306106751030555325f1a79034c3b65564a580058060a463932545b104a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD NEWS
+https://go.skym3u.top/live/3b1f0d3d404f707f0616034c594b1e1d2c3b0a145c1102705e5944537c5a40625e142c240000430c5d1056.m3u8
+#EXTINF:0,DD NEWS
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0242703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD News HD
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c024270615445325140085d0167.m3u8
+#EXTINF:0,DD Odia
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e0b41703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD ODIA
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a1845703603571704426c00520501325f417d56173b6752435d57575356153e6a5c024b4a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD ODIA
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b471b142a362420410c00103a2b4b0e41104c.m3u8
+#EXTINF:0,DD Sports
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b075a69643a42430c5d1056.m3u8
+#EXTINF:0,DD Sports
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a1845703154541301123a07040105665f1f29574d3b615d4b0f505f55584568300107164a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD Sports HD
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0b45703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD URDU
+https://go.skym3u.top/live/3b1f0d3d404f707f01411c125d015c06343b031200115a3c5e5f475235191623475b3135115d02141a4a1845706a075a43004d6f02075701665f1d2f004c3e6807415f02580708176a315757134a1d3156554a183e580c75.m3u8
+#EXTINF:0,DD URDU
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f074c703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD URDU
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b471b1430202934410c00103a2b4b0e41104c.m3u8
+#EXTINF:0,DD Uttar Pradesh
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0546703d040119041c4b03472a6b.m3u8
+#EXTINF:0,DD Uttarakhand
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e56780443703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Deepto
+https://go.skym3u.top/live/3b1f0d3d404f707f070b1d090a02021826384b04020610311c5e57427c03153e1c113a3515060215184a071a3b361d4d1f560167.m3u8
+#EXTINF:0,Discovery HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456a2a4a1b03050b1d40196c265d.m3u8
+#EXTINF:0,DISCOVERY KIDS
+https://go.skym3u.top/live/3b1f0d3d095a7020171d15110f0b0b187130064c1a54032e7606716f7c0900357b2c38084a4454555f5c59.m3u8
+#EXTINF:0,DISCOVERY KIDS
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e535a5c5645.m3u8
+#EXTINF:0,Discovery Kids
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c113623061d1b041c1c311f3637163c130706705b5e56532b45147e464d.m3u8
+#EXTINF:0,Discovery Turbo
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456a604a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Disney Channel
+https://go.skym3u.top/live/3b1f0d3d095a70685d5c5f505c4b5f4171625c4c1e0c023a1d545b453d0e0012501d3e3e0b17013e0610005b363d01060a4b196c4708.m3u8
+#EXTINF:0,Disney Channel
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456e214a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Disney Channel
+https://go.skym3u.top/live/3b1f0d3d095a7020171d15110f0b0b187130064c1a54032e7606716f7c0900357b2c38084a4454555f5c5d.m3u8
+#EXTINF:0,Disney Channel
+https://go.skym3u.top/live/3b1f0d3d095a70685d5c5f505c4b5f4171625c4c1e0c023a1d44574527341d24401b3a294a020100170907072b7d0850075d.m3u8
+#EXTINF:0,Disney Channel
+https://go.skym3u.top/live/3b1f0d3d095a7062544143585f4b5f43667d575b485d446f021f425a3212562c034066.m3u8
+#EXTINF:0,DIsney Channel HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e535b545b44.m3u8
+#EXTINF:0,Disney International HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456b204a1b03050b1d40196c265d.m3u8
+#EXTINF:0,DISNEY JUNIOR
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e535a525f40.m3u8
+#EXTINF:0,DIVYA
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b471b19332b2c4e070b0a11277d0850075d.m3u8
+#EXTINF:0,Divya
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0543703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Duronto TV
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d002b12237e7d4130181340262324012c420867154c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Ekamra Bharat Odia
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d543b0a0b2c475a3d3804000c15410c00103a2b4b0e41104c.m3u8
+#EXTINF:0,Ekamra Cinema
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d552a051c20525a3c290b170000410c00103a2b4b0e41104c.m3u8
+#EXTINF:0,Ekamra Manoranjan
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d5b3205163f521b35310b5d0000000a1c153139040d5d0c1a3b57481c5b601e41.m3u8
+#EXTINF:0,Ekamra Musiq
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d5b2618103c1c182a230c03420800010b0c713e56164a.m3u8
+#EXTINF:0,Ekamra Nilach Akra
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d583a07182e5b143422045d030802040d1c3e3817025d0c1a3b57481c5b601e41.m3u8
+#EXTINF:0,Ekamra Paramatma
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d4632191820520132314a020c130f080f0032324a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,Ekattor HD
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d73042f0b1b06242c3b02131f3b2b302c166c23304c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Enter 10 Bangla
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0443070f1a383f044d130e15325359485337451728475a333913170c031c4a1e013d7e0c0c10041a385e51594660181f2b1c193626002d5a535e15411737260b08014b196c4708.m3u8
+#EXTINF:0,Enter TV
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b045f4b0b1a2b361717044b17305f1e50527c0e173956072b264a1b03050b1d40123223514d1f560167.m3u8
+#EXTINF:0,Epic Bharat
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e56790444703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Epic Bharat
+https://go.skym3u.top/live/3b1f0d3d404f707f061140115f0c14136b60070845161e6a1c5159573e0a10375611713e000642175f4a03152c2700115d56436d005304063253487850446669014b0e510b035d423c660754410115690a510404315b4029025a3c3348025c0814025a473d38521018505b1b7b69711903262a011c3c1161555d230014041c15001a2b3c304a3a3e485140570c223712715b3263104a.m3u8
+#EXTINF:0,Epic Kids
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62004667654b1f5e1456.m3u8
+#EXTINF:0,Epic Kids
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c3a670200020462334e.m3u8
+#EXTINF:0,Epic Music
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679054c703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Epic Music
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5140003e3d020c06135a365c1f5f076b0a082178411a002c3120343d2c2d5b363d01060a4b196c4708.m3u8
+#EXTINF:0,EPIC MUSIC
+https://go.skym3u.top/live/3b1f0d3d095a703c0c1c084f1a0c181d723c0b065c0b112b1d405e572a441524451071200d02.m3u8
+#EXTINF:0,Epic Music
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c3a67020002076a5d3c.m3u8
+#EXTINF:0,Epic Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f00020402010b181c71320e021f041d2557541c58361f56215a033a7f0002040241080f072b36174d1f560167.m3u8
+#EXTINF:0,EPIC TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0611400214071f476f2b5056190b1d2b1c5159573e0a10375611713e000642175f4a03152c2700115d56436d005304063253487850446669014b0e510b035d423c660754410115690a510404315b4029025a3c33481117031f565e0c6a660e0d1b115b1b7b69711903262a011c3c1161555d281107063120090c2c2d2d275b1a42595169073d26047d2a1d7e08411859.m3u8
+#EXTINF:0,ETV Cinema HD
+https://go.skym3u.top/live/3b1f0d3d404f707f01405a1b020e161c38241705150a5a3c5e5f475235191623475b3135115d1b5041080f072b36174c4b01406c57515157360f48740a136734504a555257575911683200054754403e0a51020e365a49751c300b063a31242f2b282f2b176153572d06183047546d5f3d4410235710277e08411859.m3u8
+#EXTINF:0,ETV HD
+https://go.skym3u.top/live/3b1f0d3d404f707f01405a1b020e161c38241705150a5a3c5e5f475235191623475b3135115d1b5041080f072b36174c4b01406c57515157360f48740a136734504a555257575911683200054754403e0a51020e365a49751c300b063a3a293e265758400030090c07012b365c1f5b58370e01635e462a68.m3u8
+#EXTINF:0,FilmRise Action
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351e78020506635b48797630.m3u8
+#EXTINF:0,FilmRise Anime
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30276c07000206635f347a.m3u8
+#EXTINF:0,FilmRise Classic TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351e78020506635b49756234.m3u8
+#EXTINF:0,FilmRise Free Movies
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351e78040206635b497a043b.m3u8
+#EXTINF:0,FilmRise Horror
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26356c07000206635f4d04.m3u8
+#EXTINF:0,FilmRise True Crime
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351e78020506635b497a0a30.m3u8
+#EXTINF:0,FilmRise Western
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351e78020506635b48780a3e.m3u8
+#EXTINF:0,FTV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e0047703d040119041c4b03472a6b.m3u8
+#EXTINF:0,FTV HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62024066684b1f5e1456.m3u8
+#EXTINF:0,FTV HD
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c074170615146325140085d0167.m3u8
+#EXTINF:0,Gold Mines
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678005a6a633a42430c5d1056.m3u8
+#EXTINF:0,Gold Mines Bollywood
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678015a6a623a42430c5d1056.m3u8
+#EXTINF:0,Gold Mines Movie
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678025a6a613a42430c5d1056.m3u8
+#EXTINF:0,GOLDMINES
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5140003e3d020c06135a365c1f5f076b0a08217841181f2936202820203d5b363d01060a4b196c4708.m3u8
+#EXTINF:0,GOLDMINES
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678005a32311606081340085d0167.m3u8
+#EXTINF:0,GOLDMINES 2
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679055a32311606081340085d0167.m3u8
+#EXTINF:0,Goldmines 2
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679055a6b663a42430c5d1056.m3u8
+#EXTINF:0,Goldmines Action
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e56780b41703d040119041c4b03472a6b.m3u8
+#EXTINF:0,GOLDMINES ACTION
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e56780b4170655d46325140085d0167.m3u8
+#EXTINF:0,GOLDMINES BOLLYWOOD
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5640003e3d020c06135a365c1f76453f124c37003d181f2936202820203d36101f293a252a3b1b1d595c5236135720000067.m3u8
+#EXTINF:0,GOLDMINES BOLLYWOOD
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678015a32311606081340085d0167.m3u8
+#EXTINF:0,GOLDMINES MOVIES
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5678025a32311606081340085d0167.m3u8
+#EXTINF:0,Green Gold TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c3a6b02000200615e29.m3u8
+#EXTINF:0,Green Gold TV
+https://go.skym3u.top/live/3b1f0d3d404f707f1315010818001d073e3a4b021904193e5b4a57527d051c391c102a7f1343420c0f0b07123a20114c4454453b0509500762094e7a56473965524354525a030a4c6f3004524654476b07030501610a1a7a1c43686504415a045b4808416e64485741511172535453537e0f4b7852106e6755445e555e4a08163b315552450659685006031b670d4f7f1e4d68615c5f5f590c5759116b67065b44575b6b1c5d01436b.m3u8
+#EXTINF:0,Hindi Hits HD
+https://go.skym3u.top/live/3b1f0d3d095a706151444354574b5c416c7d5051485d4467021f5a5f3d0f10255a012c38015d040f0a00165a3260105b.m3u8
+#EXTINF:0,History TV18
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62024168614b1f5e1456.m3u8
+#EXTINF:0,HUM TV
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c1d2a3d3a061b3e0f071c5b363d01060a4b196c4708.m3u8
+#EXTINF:0,Independent
+https://go.skym3u.top/live/3b1f0d3d404f707f161f400c010b07062a3f4b171d155b1f5f5f5c5f211e15127a063331082d3e2c41150215267c0c0d1600043a5c54575827340d3b1d186c255d.m3u8
+#EXTINF:0,Iqra Bangla
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d4f00060f063a7d090a04005b3c01664b523e3d00150b272f322027542c075d163a266b1c2e362044187b746700010c031c053b0b110216280e0f00280e3d155c512b320c1668647d06065b1c377d44162a280b0b170d22383905162f202620320857667c05033f362057332c313220190039505f1536030d0d22313d6d1d5943443209182354193e24131d0b0707060b5a2c27170613085b335b46571b3c191e245d5a362117130f00000202152b250a05140c173a1c434644360a1462501d2a3e0e01430c5d1056.m3u8
+#EXTINF:0,Jalsha Movies HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5440426e7d54515d2f1533415853691e040f24565a2b220411061243135f156e7c080c1c0a5a3201450a.m3u8
+#EXTINF:0,Jamuna
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d7d140f23085734682134465e050335051334620f4c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Jatra Ekamra
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d5c321f0b2c1c1f3e241713420800010b0c713e56164a.m3u8
+#EXTINF:0,Jio Exclusive HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c620b43697e08411859.m3u8
+#EXTINF:0,Jio Specials HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6201476c604b1f5e1456.m3u8
+#EXTINF:0,Kalinga TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e0b43703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Kalinga TV
+https://go.skym3u.top/live/3b1f0d3d404f707f16171f170b17400037360906150c002f405f1c5f3d44122c5f1c313704061b4e0504021d31340417044a1d3156554a18350609791d186c255d.m3u8
+#EXTINF:0,KALINGA TV
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5440003e3d020c06135a365c1f7d03321c41175d461411293b23262f31385b363d01060a4b196c4708.m3u8
+#EXTINF:0,Kanak News
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b054c703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Kanak News
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c620444677e08411859.m3u8
+#EXTINF:0,KAPPA TV
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5640003e3d020c06135a365c1f76453f124c37003d141135222c35384a071a3b361d4d1f560167.m3u8
+#EXTINF:0,Kappa TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0742703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Khusbo Bangla
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e044070635247325140085d0167.m3u8
+#EXTINF:0,Lionsgate Play
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6201466d674b1f5e1456.m3u8
+#EXTINF:0,Love Natural
+https://go.skym3u.top/live/3b1f0d3d095a7062525c5c535a4b59457161524c3e0a023a6d7e534226191c625a1b3b351d5c00521b5d.m3u8
+#EXTINF:0,Maasranga
+https://go.skym3u.top/live/3b1f0d3d404f707f08061b4f1d10000433361d4d1e0c023a1d7d737700393803743470390b16081940085d0167.m3u8
+#EXTINF:0,Maha Movie
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e56790b5a6b683a42430c5d1056.m3u8
+#EXTINF:0,Mahaa Max
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b0b41703d040119041c4b03472a6b.m3u8
+#EXTINF:0,MANORANJAN GRAND
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0a5a32311606081340085d0167.m3u8
+#EXTINF:0,Manoranjan Grand
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0a5a6e693a42430c5d1056.m3u8
+#EXTINF:0,MANORANJAN MOVIES
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679045a32311606081340085d0167.m3u8
+#EXTINF:0,MANORANJAN MOVIES
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5140003e3d020c06135a365c1f5f076b0a0821784112112b3d3f20202f2f3a121c332a37365b365c54574e7d064a380b.m3u8
+#EXTINF:0,Manoranjan Movies
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e5679045a6b673a42430c5d1056.m3u8
+#EXTINF:0,Manoranjan Prime
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e0740703d040119041c4b03472a6b.m3u8
+#EXTINF:0,MANORANJAN TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f005a32311606081340085d0167.m3u8
+#EXTINF:0,Manoranjan TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f005a6d633a42430c5d1056.m3u8
+#EXTINF:0,MBC TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b0542703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Me Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f0c0219170c0140183625004c1f00002903000a067c5a4975035b3263104a.m3u8
+#EXTINF:0,MNX HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456a624a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Movies Thriller (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f161a094c0f080959393216175c001038575e574e27081d231d1b3a244a0615515f57410433321c0f1b1600715f03470e.m3u8
+#EXTINF:0,MovieSphere AU (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f041f0a515e565b47723f0c0c1c16133e4655545f3f060a241e1830260c171e1106001c113e26164e0104192c475e555726464e3c491d397e041f0c06074b1a02702309020b091d2c461f535b345b497e0646723c0c1d031209041a11393a090e010c59325d465b53201b112841103e25165f1e0003161b1a3832104c020915265e5941427d064a380b.m3u8
+#EXTINF:0,MovieSphere UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f081d1b080b161e1c3a2100161948073e5f434758341e126352183e370c5c191741150215263f0c10064b196c4708.m3u8
+#EXTINF:0,MTV HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5c515a565f456e.m3u8
+#EXTINF:0,Mundial
+https://go.skym3u.top/live/3b1f0d3d404f707f164043031b030f18302400015c061b321d524750320716741c012d3106191e4c18510f45703e0a0d1d4b002c1c5d01436b.m3u8
+#EXTINF:0,Music India
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6201406f7e08411859.m3u8
+#EXTINF:0,Music India
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c064d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,MUSIC INDIA
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b471205363b2e2820212735703a0b07171d5a3201450a.m3u8
+#EXTINF:0,MyTime Movie Network (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d0d0b111c113a7e081a060c193a53451f4532060a385d12713108130a084011185b2f3f041a1e0c072b1c5d01436b.m3u8
+#EXTINF:0,MyTime Movie Network (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d0d0b111c113a7e081a060c193a475b1f4432000c39561b713108130a084011185b2f3f041a1e0c072b1c5d01436b.m3u8
+#EXTINF:0,N TV
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d4e055f130878136c145c080e4e070b0a11277d0850075d.m3u8
+#EXTINF:0,Nagorik
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5440426e7d54515d2b15385d425b5d0c3f2f62451c3b350a5c00521b5d.m3u8
+#EXTINF:0,Nandighosha TV
+https://go.skym3u.top/live/3b1f0d3d404f707f12051a4f0004001036340d0c010d152b445c5b4036451a225e5a373c165d1e151c000f19703a0b07171d5a3201450a.m3u8
+#EXTINF:0,National Geographic HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456a3f4a1b03050b1d40196c265d.m3u8
+#EXTINF:0,National Geographic HD
+https://go.skym3u.top/live/3b1f0d3d095a7064555c5c575e4b5c407166564c3c24200075757d193a051d284b5b3263104a.m3u8
+#EXTINF:0,NAXATRA NEWS
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b054d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,NAZARA
+https://go.skym3u.top/live/3b1f0d3d404f707f00020402010b181c71320e021f041d2557541c58361f56215a033a7f0b1317001c0441193e201106004b196c4708.m3u8
+#EXTINF:0,NDTV Hindi
+https://go.skym3u.top/live/3b1f0d3d404f707f0b161917070b0a1d3e3609061f04063c5a515c577d0a122c5e14362a0016430f0b11411c33204a0f1b13117000000205655c4060515a31341104040f0a0c0f5b3232161717175a3201450a.m3u8
+#EXTINF:0,News 21 Bangla TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350575540456c604b554a5f456601051d58361c0a7f02193626005d01081800410433321c0f1b1600715f03470e.m3u8
+#EXTINF:0,News 24
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d55370c0b7e470269070a355a2b173700383d3a554c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,News18 Odia
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c3a1d76020706635b487e7a31.m3u8
+#EXTINF:0,News18 Odia
+https://go.skym3u.top/live/3b1f0d3d404f707f0b435512170b0a1d3c32110a1d0b5a3e59515f573a111c291d1b3a244a101d0a4311185b11361210435d2b10565953691d3c48756c3810124a1d18151e101a446e7c08020111112d1c5d01436b.m3u8
+#EXTINF:0,NH BollyFlix
+https://go.skym3u.top/live/3b1f0d3d404f707f061140135b0d1b043c2a08561d001c371c5159573e0a10375611713e000642175f4a0315313a030601115b6c05020055655b187502403c615c4b09580d550b126c6506561052473b53060a5765591b7d0a116e7f061140135b0d1b043c2a08561d001c371d540601375a407c03586768534040550c5d5d593e6b04555f55443e51010305635c41780a5a6f7e08411859.m3u8
+#EXTINF:0,NH BollyRaga
+https://go.skym3u.top/live/3b1f0d3d404f707f061140141e5c04426b6a1d57060d06351c5159573e0a10375611713e000642175f4a0315313a030601115b6c05020055655b187502403c615c4b09580d550b126c6506561052473b53060a5765591b7d0a116e7f061140141e5c04426b6a1d57060d06351d560b05660e1c7a06583d36541040550c0358593e6055005f54126f0b06530663534a2e065a6f7e08411859.m3u8
+#EXTINF:0,Nick Bangla
+https://go.skym3u.top/live/3b1f0d3d095a703c0c04084f0c040215353a07111d04103d535e56183004147700406f604a1e04170b4a5f476b624b0e41104c.m3u8
+#EXTINF:0,One Paschima
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d593d0e092c401637390813420e00001e152c300d0a1f045b365c54574e7d064a380b.m3u8
+#EXTINF:0,PASAND TV
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5440003e3d020c06135a365c1f7d03321c41175d460f11363323253a33411d3137001b5c08472a0a.m3u8
+#EXTINF:0,Pasand TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567a034d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Pogo
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0530370a2d1e0531040c06703a0b07171d5a3201450a.m3u8
+#EXTINF:0,Pogo
+https://go.skym3u.top/live/3b1f0d3d095a7020171d15110f0b0b187130064c1a54032e7606716f7c0900357b2c38084a4454555f565a.m3u8
+#EXTINF:0,POGO
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e5358545f40.m3u8
+#EXTINF:0,Power Kids TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0611400b5c141c193b3f02560b5218381c5159573e0a10375611713e000642175f4a03152c2700115d56436d005304063253487850446669014b0e510b035d423c660754410115690a510404315b4029025a3c3348185f101c080a1838661c541e025b2f5d47574438021d3e1d186c255d.m3u8
+#EXTINF:0,PTC Music
+https://go.skym3u.top/live/3b1f0d3d404f707f0140010a5b105b4d2b3d165446065a3c5e5f475235191623475b3135115d02141a4a184570355c52410612670b0351036a5f1f7a00176e6151405c570b525a156d360301114a1d3156554a183e580c75.m3u8
+#EXTINF:0,PUBLIC MUSIC
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5140003e3d020c06135a365c1f5f076b0a082178410f05273e242223303d3d1c7c0c0d16000c715f03470e.m3u8
+#EXTINF:0,Public Music
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0745703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Public Music
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5c5657565d44.m3u8
+#EXTINF:0,R Plus Gold
+https://go.skym3u.top/live/3b1f0d3d404f707f1315010818001d073e3a4b021904193e5b4a57527d051c391c06387f1343420c0f161a112d7c53524301436650010354645c1c7f554068615c4159070a5d5e173e6251524151416c05070057305c562e554d676301135e4c085c0841726706544248166f57561f54600a1a7f56473e3454175e4e070b0a11277d0850075d.m3u8
+#EXTINF:0,R Plus News
+https://go.skym3u.top/live/3b1f0d3d404f707f111a080d0b0207002f210a4d1b0b5b2f5c444419211b1538401b3a2716405919594a071a3b361d4d1f560167.m3u8
+#EXTINF:0,Raj Music Telugu
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5240003e3d020c06135a365c1f487e3933400275190d112f3f3832273d3a31130622365d0c1a3b57481c5b601e41.m3u8
+#EXTINF:0,Raj Pariwar
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6206466c7e08411859.m3u8
+#EXTINF:0,Rakuten Top Movies UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f554359545a505f4d686604554607476a0a060407645b1f29011067360446555740080b10363211021b091b2d1c55471b240e0a391e4471310813170e0004190771300a0e5d1345705f5141423619567d06416836544a5b5557070a43676b07061152166905520502650e4d7a05426f365047550358075c5b2f210a07070600365d5e1f7a3a1d1c0e5b14313e001e4054575d595b3232161717175a3201450a.m3u8
+#EXTINF:0,Rakuten TV Action Movies UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f50465d555b035e176b6303074651463c0a520200370d497a05143e365417555440080b10363211021b091b2d1c55471b240e0a391e4471310813170e0004190771300a0e5d1345705f5141423619567d06416836544a5b5557070a43676b07061152166905520502650e4d7a05426f365047550358075c5b2f210a07070600365d5e1f7a3a1d1c0e5b14313e001e40575e535b5b3232161717175a3201450a.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f5c10085656560a426a610607460744660b535400600e482950446c6406460c5240080b10363211021b091b2d1c55471b240e0a391e4471310813170e0004190771300a0e5d1345705f5141423619567d06416836544a5b5557070a43676b07061152166905520502650e4d7a05426f365047550358075c5b2f210a07070600365d5e1f7a3a1d1c0e5b14313e001e40575f5d5f5b3232161717175a3201450a.m3u8
+#EXTINF:0,Rang Rangoli
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d4421440b3f1c033634001d430c5d1056.m3u8
+#EXTINF:0,Red Bull TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f24201d76010706635b497e7626.m3u8
+#EXTINF:0,Red Bull TV
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62014268694b1f5e1456.m3u8
+#EXTINF:0,Red Bull TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f21311d71020106635b497c7620.m3u8
+#EXTINF:0,Rengoni
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567a034c703d040119041c4b03472a6b.m3u8
+#EXTINF:0,RENGONI
+https://go.skym3u.top/live/3b1f0d3d404f707f0616034c594b1e1d2c3b0a145c1102705e5944537c5a497d024d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Republic Bangla
+https://go.skym3u.top/live/3b1f0d3d404f707f131540130b151b16333a0617041c012f421e535d3206182449103b7e0b17194e1e110006722a101302115b29031f5f573d021f28400170665443095657075f453d6452064003416803090102350f417d50146e64544159545d5259463e30524c0402183644551f4538464f7c00436f654a4b5e0558525a153d7e03541355596b0204571b6b531b7f1e176b3654445e5259560a163a7c554d1f560167.m3u8
+#EXTINF:0,Rock TV
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c201d71010306635b487c613e.m3u8
+#EXTINF:0,Rock TV
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27090a04005a3c5d1e5b587c180c3f5a0c3e3e11041900030c025b363d01060a4b196c4708.m3u8
+#EXTINF:0,Romedy Now
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456a284a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Rongeen
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f034770625540325140085d0167.m3u8
+#EXTINF:0,Ruposhi Bangla
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b054170665346325140085d0167.m3u8
+#EXTINF:0,SA TV
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d441627212446200721071517310c55583a2f3c084c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,SAB HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5c5657545a47.m3u8
+#EXTINF:0,Sadhna Gold
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b0145703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Sadhna Gold
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e0745703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Sai Ekamra
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b04400005153221040c06115a3c5d5d1d5232441d2c1c033634001d430c5d1056.m3u8
+#EXTINF:0,Sananda Tv
+https://go.skym3u.top/live/3b1f0d3d095a703c0c04084c1d111c113e3e4b021f04063d535e555a321f0f635a1b6568554a5d4e06091d5b2c320b021c01152b441f5b58370e01635e462a68.m3u8
+#EXTINF:0,Sangeet Bangla
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567e044c7063524b325140085d0167.m3u8
+#EXTINF:0,SET HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456f654a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Shemaroo Josh
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f025a6d613a42430c5d1056.m3u8
+#EXTINF:0,SHEMAROO JOSH
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f025a32311606081340085d0167.m3u8
+#EXTINF:0,Shemaroo TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0441703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Shemaroo Umang
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f064d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Shemarooenterta
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0b4c70615d4b325140085d0167.m3u8
+#EXTINF:0,Sidharth Gold
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62024c6a674b1f5e1456.m3u8
+#EXTINF:0,Somoy Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d020b0808295c03152a07102e583901243566340e4c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Sony Aath
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c06303e1c2d0c001a0d31153d214a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,Sony Max 2
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e5620520d00623a130f13410907023a7c08020a3a46000502021930030c235806713d560755.m3u8
+#EXTINF:0,Sony Max HD
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e5620520d0038012d0c031c4a021d29364a0e131d2b37566f050463441a25461b34234b1f5e1456.m3u8
+#EXTINF:0,Sony PAL
+https://go.skym3u.top/live/3b1f0d3d095a7025000117150b16035a363c0c09074b17305f1f7005662f32187d34701d52372c2037263d5b6c60535240.m3u8
+#EXTINF:0,Sony Pix HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a0062524569204a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Sony SAB HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456d654a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Sony Sab HD
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e563e46170038012d0c031c4a071a3b361d4d1f560167.m3u8
+#EXTINF:0,Sony Television
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c06303e1c2d080f1a3a1d10003207115d0c1a3b57481c5b601e41.m3u8
+#EXTINF:0,Sony Television HD
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c06303e1c2d080f1a3a0610003207115d0c1a3b57481c5b601e41.m3u8
+#EXTINF:0,Sony Ten 1
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e5639561b00613a1a093e0f071c5b363d01060a4b196c4708.m3u8
+#EXTINF:0,Sony Ten 2
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e5639561b00623a1a093e0f071c5b363d01060a4b196c4708.m3u8
+#EXTINF:0,Sony Ten 5
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a3d561f5e5f250e5639561b00653a1a093e0f071c5b363d01060a4b196c4708.m3u8
+#EXTINF:0,SONY TV
+https://go.skym3u.top/live/3b1f0d3d095a703d041b034f020c091c2b7e0a17064b1a3a461f425a321256215a033a7e151a1d.m3u8
+#EXTINF:0,Sony YaY
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c06303e1c2d1400173a0f162d7c090a04005b2c5d5e4b692a0a001204476f7f061a180f051640196c265d.m3u8
+#EXTINF:0,Sony yay
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c06303e1c2d1400173a0f162d7c0c0d16000c715f03470e.m3u8
+#EXTINF:0,STAR BHARAT HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5b515f505a.m3u8
+#EXTINF:0,Star Gold 2
+https://go.skym3u.top/live/3b1f0d3d095a7061554143535b564045677d505b485d446f021f425a3212562c03452d.m3u8
+#EXTINF:0,STAR GOLD 2 HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e535c555b.m3u8
+#EXTINF:0,Star Gold 2 HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456b214a1b03050b1d40196c265d.m3u8
+#EXTINF:0,STAR GOLD HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e535f535f.m3u8
+#EXTINF:0,Star Gold HD
+https://go.skym3u.top/live/3b1f0d3d095a7066535c5c515c4b5f46697d5453485d446f021f425a3212562c0345397f0c1c0904164b03472a6b.m3u8
+#EXTINF:0,Star Gold HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456d314a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Star Gold Romance
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456b644a1b03050b1d40196c265d.m3u8
+#EXTINF:0,STAR GOLD ROMANCE
+https://go.skym3u.top/live/3b1f0d3d095a7066535c5c515c4b5f46697d5453485d446f021f425a3212562c03452d7f0c1c0904164b03472a6b.m3u8
+#EXTINF:0,Star Gold Select HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a0062524569684a1b03050b1d40196c265d.m3u8
+#EXTINF:0,STAR GOLD THRILLS
+https://go.skym3u.top/live/3b1f0d3d095a7066535c5c515c4b5f46697d5453485d446f021f425a3212562c03453c7f0c1c0904164b03472a6b.m3u8
+#EXTINF:0,Star Gold Thrills
+https://go.skym3u.top/live/3b1f0d3d095a7061554143535b564045677d505b485d446f021f425a3212562c034530.m3u8
+#EXTINF:0,Star Jalsha HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5440426e7d54515d36003e406f78573f18112c1c012d3106191e4c18540f45703e0a0d1d4b196c4708.m3u8
+#EXTINF:0,STAR JALSHA HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d58535c57564d.m3u8
+#EXTINF:0,STAR MAA HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5c5657565e4c.m3u8
+#EXTINF:0,Star Movies HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a0062524569224a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Star Plus HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456f694a1b03050b1d40196c265d.m3u8
+#EXTINF:0,STAR PLUS HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e5358555746.m3u8
+#EXTINF:0,Star Sports 1
+https://go.skym3u.top/live/3b1f0d3d095a70241301080f594b0f0d313216001d1511715c55461920180939404470390b16081940085d0167.m3u8
+#EXTINF:0,Star Sports 1 HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456f314a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Star Sports 1 Hindi
+https://go.skym3u.top/live/3b1f0d3d095a70240d0703050b170c1b332748574202162f411e51593e44092400203103241842065a341b262b030d4c4755446f0203040563.m3u8
+#EXTINF:0,Star Sports 2
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400524015263d040c06115a3c5d5d1d45201b163f474737344a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Star Sports 2 Hindi HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456b324a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Star Sports Khel
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c064470615043325140085d0167.m3u8
+#EXTINF:0,STAR SPORTS KHEL
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567c0644703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Star Sports Select 1 HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456c334a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Star Sports Select 2 HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456c354a1b03050b1d40196c265d.m3u8
+#EXTINF:0,Studio One Plus
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0246703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Subharti TV
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b0044703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Sun Bangla
+https://go.skym3u.top/live/3b1f0d3d095a7062525c5c535a4b59457161524c21101a0070515c513f0a56245d113a284b1f5e1456.m3u8
+#EXTINF:0,Sun Gemini Movies HD
+https://go.skym3u.top/live/3b1f0d3d404f707f080700030f0c43113b34004d0108152d46405e572a1f0f635a1b7017001f040f072801023636162b364a1d3156554a183e580c75.m3u8
+#EXTINF:0,Sun Gemini Music HD
+https://go.skym3u.top/live/3b1f0d3d404f707f080700030f0c43113b34004d0108152d46405e572a1f0f635a1b7017001f040f07281b0736302d275d0c1a3b57481c5b601e41.m3u8
+#EXTINF:0,T Sports HD
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d623d261778582f2568043e004e070b0a11277d0850075d.m3u8
+#EXTINF:0,THE Q
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b470b182023420800010b0c713e56164a.m3u8
+#EXTINF:0,THE Q
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f065a32311606081340085d0167.m3u8
+#EXTINF:0,The Q
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f065a6d653a42430c5d1056.m3u8
+#EXTINF:0,Travel XP HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6206436d7e08411859.m3u8
+#EXTINF:0,Vedic
+https://go.skym3u.top/live/3b1f0d3d404f707f04131e15060401002b7d040813081536485556183d0e0d6202446f6957414212030c024e2936010a114b07325b5c1d463f0a00215a062b7e08411859.m3u8
+#EXTINF:0,Vedic
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567b014d703d040119041c4b03472a6b.m3u8
+#EXTINF:0,VEDIC
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5040003e3d020c06135a365c1f0a011d0e38014b470915213b2e4e070b0a11277d0850075d.m3u8
+#EXTINF:0,Vevo '90s & '00s
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f22361d71020306635b497f7b25.m3u8
+#EXTINF:0,Vevo '90s & '00s
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c201d71020306635b497f0345.m3u8
+#EXTINF:0,Vevo Pop
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f20271d71020306635b497c7a20.m3u8
+#EXTINF:0,Vevo Pop
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f23261d71020306635b497c6a2c.m3u8
+#EXTINF:0,Vevo Pop
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f21311d71020306635b497c693f.m3u8
+#EXTINF:0,Vevo Pop
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f2c201d71020306635b497c744c.m3u8
+#EXTINF:0,Vevo Pop
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f22361d71010b06635b497c0423.m3u8
+#EXTINF:0,Vevo Retro
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f20271d76020106635b497f0b4c.m3u8
+#EXTINF:0,https://example.com/promo.m3u8
+#EXTINF:0,XITE 90s Throwback
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351d70020406635b48756741.m3u8
+#EXTINF:0,XITE 90s Throwback
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30271d70030006635b497a723e.m3u8
+#EXTINF:0,XITE Hits
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f22361d70030a06635b4978623a.m3u8
+#EXTINF:0,XITE Hits
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f21311d73020006635b497a6543.m3u8
+#EXTINF:0,XITE Hits
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351d76010006635b4a757d2f.m3u8
+#EXTINF:0,XITE Hits
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30271d76030106635b4979613d.m3u8
+#EXTINF:0,XITE Just Chill
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30271d70020106635b497e792f.m3u8
+#EXTINF:0,XITE Just Chill
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351d70020406635b4979612f.m3u8
+#EXTINF:0,XITE Summer
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f30271d76030706635b4a740047.m3u8
+#EXTINF:0,XITE Summer
+https://go.skym3u.top/live/3b1f0d3d404f707f0f1f1d534010055b2c2713135f26351d76010506635b4979003f.m3u8
+#EXTINF:0,YRF Music
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d58595a515b43.m3u8
+#EXTINF:0,yrf Music
+https://go.skym3u.top/live/3b1f0d3d404f707f0616034c1b125c592f210a075c110729001e535b320c10634703703c0c1c08001c4a0f1938635457435759275b515d5b3a0a0a2452582622031f18120706430c36320a0e1b4a043353495e5f201f5720000067.m3u8
+#EXTINF:0,ZB Cinema
+https://go.skym3u.top/live/3b1f0d3d404f707f16171f170b17400e363f09020007152d46511c553c0656177136161e203f2c4e070b0a11277d0850075d.m3u8
+#EXTINF:0,Zee 24 Ghanta
+https://go.skym3u.top/live/3b1f0d3d404f707f01400912011c181f2d60560e42505a3c5e5f475235191623475b3135115d040f0a00162b6a7d0850075d.m3u8
+#EXTINF:0,Zee Action
+https://go.skym3u.top/live/3b1f0d3d095a7025000117150b16035a363c0c09074b17305f1f7005662f32187d34701d52372c2037263d5b666553564b.m3u8
+#EXTINF:0,Zee Action
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0445703d040119041c4b03472a6b.m3u8
+#EXTINF:0,Zee Action
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0f3a353a130e15070a002b3e31174c1b0b103a4a1e5f052653.m3u8
+#EXTINF:0,Zee Action
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f044570625242325140085d0167.m3u8
+#EXTINF:0,Zee Anmol
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0f3a353a13030c010931153d214a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,Zee Anmol
+https://go.skym3u.top/live/3b1f0d3d095a7025000117150b16035a363c0c09074b17305f1f7005662f32187d34701d52372c2037263d5b666450524b.m3u8
+#EXTINF:0,Zee Bangla Cinema
+https://go.skym3u.top/live/3b1f0d3d404f707f01430a59190204012d295d151b045a3c5e5f475235191623475b3135115d0f1105481a0270100a0f1d170717761f5653350a0c21475a3231160608135c4b03472a6b.m3u8
+#EXTINF:0,Zee Bangla HD
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6205476a7e08411859.m3u8
+#EXTINF:0,ZEE BHARAT
+https://go.skym3u.top/live/3b1f0d3d404f707f080700155e5640003e3d020c06135a365c1f76453f124c37003d0515203025203c243a5b363d01060a4b196c4708.m3u8
+#EXTINF:0,Zee Bharat
+https://go.skym3u.top/live/3b1f0d3d095a706155414350595040436c7d5451485d4467021f5e5f250e567f0741703d040119041c4b03472a6b.m3u8
+#EXTINF:0,ZEE Bollywood
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5c515d5257446a.m3u8
+#EXTINF:0,Zee Bollywood
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0f3a353a10020d021c191b30373a0210175b365c54574e7d064a380b.m3u8
+#EXTINF:0,Zee Business
+https://go.skym3u.top/live/3b1f0d3d404f707f01050f185f500a446b320215034b17335d455650210417391d1b3a244a1b03050b1d3141713e56164a.m3u8
+#EXTINF:0,Zee Cinema HD
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0f3a353a11040f0b080f2b37373a0210175b365c54574e7d064a380b.m3u8
+#EXTINF:0,Zee Cinemalu
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6207446c7e08411859.m3u8
+#EXTINF:0,Zee Classic
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62024366614b1f5e1456.m3u8
+#EXTINF:0,Zee Sarthak
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6204476d7e08411859.m3u8
+#EXTINF:0,Zee Tv
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0f3a353a061b3e060131153d214a0a1c0111271c5d01436b.m3u8
+#EXTINF:0,ZEE TV HD
+https://go.skym3u.top/live/3b1f0d3d095a70281d4b5b4f1b0e544c676b554c4651426804090b067c5a49750b416866515d5e535f515e.m3u8
+#EXTINF:0,Zing
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0f363e022d1e0531040c06703a0b07171d5a3201450a.m3u8
+#EXTINF:0,Zoom
+https://go.skym3u.top/live/3b1f0d3d404f707f15070f000a16401371370a161009113c5e59515d7d051c391c062c310c5d08170b0b1a5b1510240e4050053460685b7d3020480c793833262e23420c0f161a112d7d0850075d.m3u8
+#EXTINF:0,ZOOM
+https://go.skym3u.top/live/3b1f0d3d404f707f0113044f090a011333364b001d085b335b5e575721441121405a3a26001c194e24262f196d661408203d1d14517b03771926153b7824703d040119041c4b03472a6b.m3u8
