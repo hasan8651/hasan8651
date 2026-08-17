@@ -256,6 +256,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg" group-title="BANGLADESH",ANANDA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="BANGLADESH",GLOBAL TV
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="BANGLADESH",GLOBAL TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
@@ -334,6 +337,9 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" group-title="NEWS",JAGO NEWS 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="NEWS",JAGO NEWS 24
+https://live.shamim-iptv.workers.dev/jagonews24.m3u8
 
 #EXTINF:-1 group-title="NEWS",STAR NEWS
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
@@ -444,6 +450,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1557
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="KOLKATA",STAR JALSHA
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="KOLKATA",STAR JALSHA
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 
 
@@ -564,6 +573,10 @@ https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tqMH8wD/oh-QMq-MIO-400x400.jpg" group-title="INDIAN",INDIA LIFE TV
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tqMH8wD/oh-QMq-MIO-400x400.jpg" group-title="INDIAN",INDIA LIFE TV
+https://go.skym3u.top/live/6a152/3b1f0d3d404f706d296934090004112f260f5552430b092c1f5c5b4036454c2e561b2b31273b3d43021d197032130d170f100c705600565436524878034c6e26706f630f054a113a75075e5608535266030302057d181d3d1c0533233d333a1e155c196c3759.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400000830_20251126T004252SQUARE.png" group-title="INDIAN",ENT LIVE
 https://jmp2.uk/stvp-IN400000830
@@ -804,6 +817,9 @@ https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HLN8nDz/images.png" group-title="INDIAN",MAZHAVIL MANORAMA
 https://cdn-3.pishow.tv/live/1479/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",MAZHAVIL MANORAMA
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+
 #EXTINF:-1 group-title="TAMIL",MAZHAVIL MANORAMA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
@@ -873,8 +889,23 @@ https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL",TELUGU ONE
 https://jmp2.uk/stvp-IN400058AF
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="TAMIL",TELUGU ONE
+https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png" group-title="TAMIL",THANTHI ONE
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+
+#EXTINF:0 group-title="TAMIL",VANITHA TV
+https://cdn-1.pishow.tv/live/393/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="TAMIL",VASANTH TV
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="TAMIL",VELICHAM TV
+https://cdn-3.pishow.tv/live/461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="TAMIL",VENDHAR TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8
 
 #EXTINF:-1 group-title="ASAMESE",SAI EKAMRA 0
 
@@ -946,6 +977,9 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 group-title="KOLKATA",ZB CINEMA 0
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="KOLKATA",ZEE BANGLA CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" group-title="KOLKATA",ZEE BANGLA CINEMA
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 
@@ -957,6 +991,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" group-title="KOLKATA",ZEE BANGLA CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png"group-title="KOLKATA",ZEE BANGLA CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KOLKATA",SANANDA
 http://27.124.71.27/Sun_Bangla/index.m3u8
@@ -1003,6 +1040,9 @@ https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",ZEE CLASSIC 0
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",ZEE ANMOL
+https://stream.ottplus.bd/live/zee_anmol_abr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="INDIAN",ZEE BOLLYWOOD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
 
@@ -1014,8 +1054,16 @@ https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 group-title="INDIAN",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",GOLDMINES
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
 #EXTINF:-1 group-title="INDIAN",GOLDMINES 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",GOLDMINES 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+
 
 #EXTINF:-1 group-title="INDIAN",GOLDMINES BOLLYWOOD
 http://103.175.73.12:8080/live/52/52_0.m3u8
@@ -1025,6 +1073,9 @@ http://103.175.73.12:8080/live/51/master.m3u8
 
 #EXTINF:-1 group-title="INDIAN",GOLDMINES MOVIES
 http://103.175.73.12:8080/live/51/51_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",GOLDMINES MOVIES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 group-title="INDIAN",GOLDMINES ACTION
 http://103.175.73.12:8080/live/584/584_0.m3u8
@@ -1036,6 +1087,9 @@ https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN",MANORANJAN GRAND
 http://103.175.73.12:8080/live/19/19_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",MANORANJAN GRAND
+https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 #EXTINF:-1 group-title="INDIAN",BOLLYWOOD 0
 
@@ -1083,6 +1137,9 @@ https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN",MANORANJAN PRIME
 http://103.175.73.12:8080/live/345/345_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",MANORANJAN PRIME
+https://cdn-4.pishow.tv/live/1474/master.m3u8
 
 #EXTINF:-1 group-title="INDIAN",MANORANJAN TV
 http://103.175.73.12:8080/live/23/23_0.m3u8
@@ -1169,6 +1226,13 @@ https://jmp2.uk/stvp-IN46000105Q
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",COLORS KANNADA CINEMA 0
 
+#EXTINF:-1 group-title="TAMIL",ANALAI EXPRESS CINEMA
+https://go.skym3u.top/live/6a152/3b1f0d3d404f706d7771231f0e0a0d712c04000d0f0a0c2f46461c553c0656007c3b0b0309161f32223b3a1a0f204308000700271c5d01436b540d225810317f030b01.m3u8
+
+#EXTINF:-1 group-title="TAMIL",NTC TV
+https://go.skym3u.top/live/6a152/3b1f0d3d404f706d233e3f0c190b1b2b364f000818064a375e431d58271d5720000067.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="TAMIL",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 
@@ -1231,10 +1295,16 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p6Vx5j5X/images-2.jpg" group-title="INDIAN",PUBLIC MOVIES
 https://ms1.alliancebroadband.in/media_public_movies.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",PUBLIC MOVIES
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="INDIAN",SUBIN TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="TAMIL",ROJA MOVIES
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="ENGLISH",ROCK TV
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="ENGLISH",SURIYA TV
 https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 
 
@@ -1311,7 +1381,9 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png" group-title="ENGLISH",HOLLYWOOD DESI
 https://jmp2.uk/stvp-IN3800010SH
 
-#EXTINF:-1 group-title="ENGLISH",ALL TIME MOVIES 0
+#EXTINF:-1 group-title="INDIAN",ALL TIME MOVIES
+https://go.skym3u.top/live/6a152/3b1f0d3d095a7073746c7d5c56475a68714f5d53545b5567021f5e5f250e5678075a6a761b6f7d0052074c.m3u8
+
 
 #EXTINF:-1 group-title="ENGLISH",MY TIME 0
 
@@ -1434,6 +1506,9 @@ https://go.skym3u.top/live/3b1f0d3d404f707f091b1b045c55401630291f17044b17305f1f5
 # bangla ---------------------------------------
 #EXTINF:-1 group-title="MUSIC",SANGEET BANGLA
 http://103.175.73.12:8080/live/379/379_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="MUSIC",SANGEET BANGLA
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC",ATN MUSIC 0
 
@@ -1646,6 +1721,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 group-title="MUSIC",YRF MUSIC
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30846d13df5e0014a957e14fa83439fd501b385865883438422a716c895f2dad1148be4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670363bda39a1ea19bfcbb9471df2d11bc632dc24e2570a8eeb9ce62ec/147/854x480_1724104/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="MUSIC",HAMDARD TV
+https://tv.hamdardtv.com/hamdard/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="MUSIC",HINDI HITS
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
@@ -1723,6 +1803,9 @@ https://jmp2.uk/stvp-IN460001373
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YnyFpbR/images.png" group-title="MUSIC",PASAND TV
 https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png"group-title="MUSIC",PASAND TV
+https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HLN8nDz/images.png" group-title="MUSIC",SANGEET BHOJPURI
 https://cdn-4.pishow.tv/live/1293/master.m3u8
@@ -2016,6 +2099,9 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="MUSIC",KRONEHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="MUSIC",KRONEHIT
+https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b828000.m3u8
 
 #EXTINF:-1 group-title="MUSIC",KANTIPUR PIRACY
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
