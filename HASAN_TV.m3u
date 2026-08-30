@@ -4,6 +4,7 @@
 # 1. বাংলা চ্যানেল (BANGLA CHANNELS)
 # ==========================================
 # bangladesh --------------
+
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="OTHERS",4K SAMPLE
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8
 
@@ -77,8 +78,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5a3ab5f6dc2b4a7388db93d5/1568338071325-M2VIZPAXEFMJP8011BN6/doc+channel+logo+black.jpg" group-title="BANGLADESH",BANGLADESH
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/233027
 
-#EXTINF:-1 group-title="BANGLADESH",BTV
-https://akash.sm-monirul.top/btv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="BANGLADESH",BTV
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="BANGLADESH",BTV NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
@@ -86,8 +87,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png" group-title="BANGLADESH",BTV NEWS
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="BANGLADESH",BTV NEWS
+https://btv.hridoytv-channel.workers.dev/news.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="BANGLADESH",BTV CTG
+https://btv.hridoytv-channel.workers.dev/chittagong.m3u8
 
 #BTV Shangshad
 
@@ -680,8 +687,6 @@ https://go.skym3u.top/live/6a152/3b1f0d3d404f706d296934090004112f260f5552430b092
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400000830_20251126T004252SQUARE.png" group-title="INDIAN",ENT LIVE
 https://jmp2.uk/stvp-IN400000830
 
-#EXTINF:-1 group-title="INDIAN",BH OTT INDIA FEST 0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="INDIAN",BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
@@ -712,11 +717,7 @@ https://cdn.wfc.tv/cdn/stream-eng.m3u8
 #EXTINF:-1 group-title="ENGLISH",WORLD FASHION
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="ENGLISH",GLOBAL FASHION CHANNEL 0
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="ENGLISH",VH1 0
-
-#EXTINF:-1 group-title="ENGLISH",8 OUT OF 10 CATS 0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l753AgQ.png" group-title="ENGLISH",INRATING TV
 http://stream.mcquack.net/147/index.m3u8
@@ -761,7 +762,14 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d7
 
 #EXTINF:-1 group-title="INDIAN",COLORS INFINITY 0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",COLORS KANNADA 0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",COLORS KANNADA
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIAN",COLORS MENA
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIAN",COLORS TAMIL
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",COLORS MARATHI 0
 
@@ -814,6 +822,12 @@ https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",STAR BHARAT 0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",STAR PLUS 0
+
+#EXTINF:-1 group-title="INDIAN",STAR PRAVAH
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 group-title="INDIAN",STAR VIJAY
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="INDIAN",STAR UTSAV
 http://portal5458.com:8080/live/552211/552211/47841.ts
@@ -889,8 +903,6 @@ https://jmp2.uk/stvp-IN4900003U3
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png" group-title="INDIAN",ETV COMEDY
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-
-#EXTINF:-1 group-title="INDIAN",ETV 0
 
 #EXTINF:-1 group-title="INDIAN",FLOWERS USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
@@ -1007,7 +1019,8 @@ https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",SONY MARATHI 0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",STAR MAA 0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",STAR MAA
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="TAMIL",SUN TV
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
@@ -1040,8 +1053,6 @@ https://cdn-3.pishow.tv/live/461/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="TAMIL",VENDHAR TV
 https://cdn-3.pishow.tv/live/1271/master.m3u8
-
-#EXTINF:-1 group-title="ASAMESE",SAI EKAMRA 0
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="ASAMESE",EKAMRA CINEMA
 https://live.ekamraott.com/cynema/cynema/index.m3u8
@@ -1160,7 +1171,7 @@ http://bgdc.live:25461/biosysinc/90941859/215180
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16212_ll_h3_ab.png" group-title="ENGLISH",SONY CHANNEL
 http://bgdc.live:25461/biosysinc/90941859/215201
 
-#EXTINF:-1 group-title="ENGLISH",MacGyver (1992)
+#EXTINF:-1 group-title="ENGLISH",MACGYVER (1992)
 http://bgdc.live:25461/biosysinc/90941859/250512
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2P7bTwK.jpg" group-title="ENGLISH",PASIONES
@@ -1539,7 +1550,8 @@ https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGGtjnYy/images-2.png" group-title="TAMIL",GEMINI MOVIES
 https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 
-#EXTINF:-1 group-title="TAMIL",BAISCOPE TV 0
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="TAMIL",BAISCOPE TV
+https://live.ekamraott.com/baiscope/baiscope/index.m3u8
 
 #EXTINF:-1 group-title="TAMIL",MAHAA MAX 0
 
@@ -1555,9 +1567,11 @@ https://jmp2.uk/stvp-IN400061DB
 #EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/pcnhd.png" group-title="TAMIL",PCN
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",STAR MAA MOVIES 0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",STAR MAA MOVIES
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",SUN GEMINI MOVIES 0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",SUN GEMINI MOVIES
+https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="TAMIL",SUN GEMINI LIFE 0
 
@@ -1601,7 +1615,7 @@ https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="TAMIL",SURIYA TV
 https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://pro.netmos.ovh:7355/images/e2cc473d50cd85410209f61b5680663f.png" group-title="TAMIL",CRiME 2
+#EXTINF:-1 tvg-logo="http://pro.netmos.ovh:7355/images/e2cc473d50cd85410209f61b5680663f.png" group-title="TAMIL",CRIME 2
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/234792
 
 
@@ -1640,7 +1654,11 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="ENGLISH",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH",CONAN O'BRIEN TV 0
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260707T040110SQUARE.png" group-title="ENGLISH",CONAN O'BRIEN TV
+https://jmp2.uk/stvp-CABD1700002R4
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300001QO_20250107T030611SQUARE.png" group-title="ENGLISH",CONAN O'BRIEN TV
+https://jmp2.uk/stvp-GB300001QO
 
 #EXTINF:-1 group-title="ENGLISH",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
@@ -2154,7 +2172,7 @@ http://bgdc.live:25461/biosysinc/90941859/215181
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s68021_ll_h3_aa.png" group-title="ENGLISH",SPACE
 http://bgdc.live:25461/biosysinc/90941859/215203
 
-#EXTINF:-1 tvg-logo="https://edge.prod.ovp.ses.com:9002/images/604/CH_LOGO/160/160/0/0/555712060715688.png" group-title="",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://edge.prod.ovp.ses.com:9002/images/604/CH_LOGO/160/160/0/0/555712060715688.png" group-title="ENGLISH",STAR CHANNEL
 http://bgdc.live:25461/biosysinc/90941859/215204
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2015/11/fox-networks-logo.jpg" group-title="ENGLISH",SIOUX FALLS KTTW
@@ -2652,8 +2670,10 @@ https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkxZ8tD2/76-Tamil-channel.webp" group-title="MUSIC",7S MUSIC
 http://103.175.73.12:8080/live/771/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC",SUN GEMINI MUSIC
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="MUSIC",SUN GEMINI MUSIC
 https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="MUSIC",AARYAA TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
@@ -3424,13 +3444,13 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="MUSIC",X LEVEL MEDIA
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="MUSIC",Perviy Muzykalny Kanal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="MUSIC",PERVIY MUZYKALNY KANAL
 http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="MUSIC",СТРАНА FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="MUSIC",UTRK Muzyka
+#EXTINF:-1 tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="MUSIC",UTRK MUZYKA
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="MUSIC",FON MUSIC
@@ -3457,10 +3477,10 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/231990
 #EXTINF:-1 tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/MBC/mbc.1.png" group-title="MUSIC",MBC PREMIUM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/231999
 
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/b731f966-55cb-4b6d-a326-9521cbea9f93?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MUSIC",Fairuz
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/b731f966-55cb-4b6d-a326-9521cbea9f93?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MUSIC",FAIRUZ
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/214068
 
-#EXTINF:-1 tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/shahed/shahid/tarab.png" group-title="MUSIC",Tarab
+#EXTINF:-1 tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/shahed/shahid/tarab.png" group-title="MUSIC",TARAB
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/233692
 
 #EXTINF:-1 tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Netflix/netflix.png" group-title="MUSIC",NETFLIX AFLAM 1
@@ -4539,7 +4559,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/belros.png" group-title="OTHERS",SOYUZNY
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="OTHERS",КрKRASNAYA LINIYA
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="OTHERS",KRASNAYA LINIYA
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="KIDSS",MUZSOYUZ
